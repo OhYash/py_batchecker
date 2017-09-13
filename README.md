@@ -1,2 +1,5 @@
-# py_batchecker
-Linux Charge State checker in python 3
+## py_batchecker
+
+----
+
+### Battery Charge state checker in python 3
